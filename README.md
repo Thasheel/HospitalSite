@@ -1,2 +1,2 @@
 # HospitalSite
-this is maded by using django
+A django project
